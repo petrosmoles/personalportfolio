@@ -232,7 +232,7 @@ nav {
 .btn-show-all {
   background: var(--main-grey);
   font-size: 1.3em;
-  transition: background 0.3s ease-out;
+  transition: 0.3s ease-out;
 }
 
 .btn-show-all:hover {
